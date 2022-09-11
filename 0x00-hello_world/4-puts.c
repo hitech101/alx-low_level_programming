@@ -3,10 +3,10 @@
 /**
  * main - printing
  * 
- * Return always ezro 
+ * Return always zero 
  */
-int main void
+int main (void)
 {
   puts("\"Program:writing is like building a multilingual puzzle");
 	  return (0);
-i}
+}
