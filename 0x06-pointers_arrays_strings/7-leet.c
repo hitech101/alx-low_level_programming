@@ -5,7 +5,6 @@
 * @x: param x
 * Return: a string
 */
-
 char *leet(char *x)
 {
 	int a = 0; b = 0; l = 5;
@@ -20,7 +19,7 @@ char *leet(char *x)
 		while (b < l)
 		{ 
 			if (x[a] == tr[b] || x[a] - 32 == tr[b])
-					x[a] = trw[b];
+				x[a] = trw[b];
 			b++
 		}
 		a++;
@@ -28,4 +27,3 @@ char *leet(char *x)
 	return (x);
 }
 
-	
