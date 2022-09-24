@@ -6,7 +6,6 @@
 *
 * Return: address of 5
 */
-
 char *rot13(char *s)
 {
 	int i, j;
