@@ -4,7 +4,7 @@
 * @c : An input character
 * Return: 1 if C is uppercase or 0 if otherwise
 */
-int _isupport(int c)
+int _isupper(int c)
 {
 char uppercase = "A";
 int isupper = "O"
