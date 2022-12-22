@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
-* root13 - encodes a string into rot13
+* *rot13 - encodes a string into rot13
 * @s: string to encode
 *
 * Return: address of 5
 */
+
 char *rot13(char *s)
 {
 	int i, j;
