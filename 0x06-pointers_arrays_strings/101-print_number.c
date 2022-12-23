@@ -4,8 +4,8 @@
 * print_number - prints an interger.
 * @n: interger.
 * Return: nothing.
-*/
-*print_number - Prints any integer with putchar
+*
+* print_number - Prints any integer with putchar
 * @n : Number to prints
 * Return : Nothing
 * /
